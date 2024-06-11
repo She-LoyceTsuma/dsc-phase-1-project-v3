@@ -1,6 +1,13 @@
+# Unites States Aviation Accident Analysis
+
+
+### Author: Loyce Tsuma
+--------------------------------------------------------------------------------------------------------------------------------------------------
 ## Overview
 
 This repository contains an analysis of aviation accident data from the National Transportation Safety Board (NTSB) to identify trends and patterns in civil aviation accidents and selected incidents in the United States and international waters from 1962 to 2023. The goal of this analysis is to provide insights that can inform safety measures and improve the overall safety of aviation operations.
+
+
 
 ## Business Problem Statement
 
