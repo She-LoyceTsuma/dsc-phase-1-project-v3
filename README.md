@@ -1,5 +1,6 @@
 # Unites States Aviation Accident Analysis
-![Screenshot 2024-06-14 113052](https://github.com/She-LoyceTsuma/dsc-phase-1-project-v3/assets/170101999/2aa08e2f-4bcc-4a2b-9db3-72cb622cb5b2)
+![Screenshot 2024-06-14 114245](https://github.com/She-LoyceTsuma/dsc-phase-1-project-v3/assets/170101999/a114cabc-8fb0-4456-a58c-73dae906a65b)
+
 
 
 
