@@ -1,5 +1,6 @@
 # Unites States Aviation Accident Analysis
-![Screenshot 2024-06-13 183821](https://github.com/She-LoyceTsuma/dsc-phase-1-project-v3/assets/170101999/54b430a5-056f-4e7e-9c24-1a2eae225031)
+![Screenshot 2024-06-14 113052](https://github.com/She-LoyceTsuma/dsc-phase-1-project-v3/assets/170101999/2aa08e2f-4bcc-4a2b-9db3-72cb622cb5b2)
+
 
 
 ### Author: Loyce Tsuma
@@ -58,7 +59,7 @@ The most common aircraft makes involved in accidents are **Boeing**, **Cessna**,
 
 ### Time Series Analysis
 
-Most accidents occur in the month oF July (the onset of Summer Season)
+Most accidents occur in the month of July (the onset of Summer Season)
 
 Most accidents occurred in **1982**
 ![Screenshot 2024-06-13 143459](https://github.com/She-LoyceTsuma/dsc-phase-1-project-v3/assets/170101999/f8fdd8c9-697f-41a1-b61b-9d9041f7e4ac)
@@ -89,6 +90,7 @@ Most Accidents caused **significant damage** to the Aircrafts and **Commercial A
 
 ![Screenshot 2024-06-13 145559](https://github.com/She-LoyceTsuma/dsc-phase-1-project-v3/assets/170101999/d0a4836c-7eac-48ae-91ce-2ae1cdf6e5f6)
 
+![Screenshot 2024-06-14 113052](https://github.com/She-LoyceTsuma/dsc-phase-1-project-v3/assets/170101999/372d0169-8f0d-4337-98f0-12c6c0fcca6d)
 
 
 ## Recommendations
